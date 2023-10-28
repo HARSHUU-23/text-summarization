@@ -1,8 +1,9 @@
-# Extractive_Text_Summarization
-Extractive Text Summarization in Python
+# Text_Summarization
+Text Summarization in Python
 
 ## Documentation
-Find the extensive documentation in the python notebook provided by the name [extractive_summarizer.ipynb](extractive_summarizer.ipynb) in the project.
+Find the extensive documentation in the python notebook provided by the name [extractive_summarizer.ipynb](extractive_summarizer.ipynb) and [
+Abstractive_text_summarization.ipynb](Abstractive_text_summarization.ipynb) the project.
 
 ## Running the code
 ### Libraries
@@ -26,9 +27,6 @@ Once you have installed every library mentioned above, you are ready to go.
 
 ### Download the project and extract the zip into a folder of your choice
 Clone/Download this project and extract it into your desired folder.
-
-### Run the code
-Run final_code.py
 
 When asked for file input, please provide the name of any file already in the directory whose summary you want to create.
 
